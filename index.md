@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+# Hello my friend
+## Nice to see u <3
 ---
